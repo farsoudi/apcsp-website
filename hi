@@ -1,0 +1,40 @@
+Enter a string to encrypt : 
+Possible strings after rotation :
+
+~hellothereeeree
+e~hellothereeere
+ee~hellothereeer
+ree~hellothereee
+eree~hellotheree
+eeree~hellothere
+eeeree~hellother
+reeeree~hellothe
+ereeeree~helloth
+hereeeree~hellot
+thereeeree~hello
+othereeeree~hell
+lothereeeree~hel
+llothereeeree~he
+ellothereeeree~h
+hellothereeeree~
+
+Arranging in lexical order :
+
+
+eeree~hellothere
+ee~hellothereeereeeree~hellother
+ellothereeeree~h
+ereeeree~helloth
+eree~hellotheree
+e~hellothereeereee~hellothereeer
+hellothereeeree~
+hereeeree~hellot
+llothereeeree~he
+lothereeeree~hel
+othereeeree~hell
+reeeree~hellothe
+ree~hellothereee
+thereeeree~hello
+~hellothereeereee~hellothereeere
+
+Encrypted string : rerhhee~telleeoe
