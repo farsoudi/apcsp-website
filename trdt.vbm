@@ -1,0 +1,22 @@
+Enter a string to encrypt : 
+Possible strings after rotation :
+
+~poopee
+e~poope
+ee~poop
+pee~poo
+opee~po
+oopee~p
+poopee~
+
+Arranging in lexical order :
+
+ee~poop
+e~poope
+oopee~p
+opee~po
+pee~poo
+poopee~
+~poopee
+
+Encrypted string : pepoo~e

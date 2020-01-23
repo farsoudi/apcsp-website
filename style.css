@@ -1,0 +1,28 @@
+@font-face {
+
+    src: url("css/fonts/Minecraft.ttf");
+    font-family: minecraft;
+
+}
+
+table, th, td {
+  border: 1px solid white;
+  border-color: red;
+}
+
+body {
+	background-color: #000000;
+	font-family: minecraft;
+	color: white;
+}
+
+#head {
+	background-color:#66CCFF;
+	color: white;
+	text-align: center;
+}
+
+#img {
+	text-align: center;
+}
+
